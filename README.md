@@ -1,7 +1,7 @@
   <div>
     
     <!--Header &strokeWidth=0&fontColor=ffffff-->
-    ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&fontSize=60&height=250&section=header&text=Nothing,%20Ordinary%20Sunday&stroke=000000)
+    ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&fontSize=60&height=250&section=header&text=Nothing,%20Ordinary%20Sunday)
     
   </div>
   
