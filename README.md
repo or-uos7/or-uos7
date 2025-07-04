@@ -7,7 +7,8 @@
 
 <div>
   <!--Body-->
-  
+
+  ## 
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JavaScript-->
@@ -35,9 +36,8 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
+  ## 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=or-uos7)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=or-uos7)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
