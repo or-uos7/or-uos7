@@ -6,7 +6,7 @@
     
   </div>
   
-  <div style="width=50px;background=red">
+  <div style="width:20;">
     <!--Body-->
     <!--Python-->
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
