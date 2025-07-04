@@ -1,6 +1,8 @@
 <div>
+  
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&fontSize=60&height=300&section=header&text=Nothing,%20Ordinary%20Sunday)
+  
 </div>
 
 <div>
