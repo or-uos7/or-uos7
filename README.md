@@ -1,7 +1,7 @@
   <div>
     
     <!--Header-->
-    ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&fontSize=60&height=300&section=header&text=Nothing,%20Ordinary%20Sunday)
+    ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&fontSize=60&height=250&section=header&text=Nothing,%20Ordinary%20Sunday)
     
   </div>
   
@@ -22,3 +22,4 @@
       <!--MySQL-->
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   </div>
+  <br>
