@@ -1,7 +1,7 @@
   <div>
     
     <!--Header &strokeWidth=0&fontColor=ffffff-->
-    ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&fontSize=70&height=250&section=header&text=COME%20ON%20YOU%20SPURS)
+    ![header](https://capsule-render.vercel.app/api?type=venom&color=blue&fontSize=70&height=250&section=header&text=COME%20ON%20YOU%20SPURS)
     
   </div>
   
